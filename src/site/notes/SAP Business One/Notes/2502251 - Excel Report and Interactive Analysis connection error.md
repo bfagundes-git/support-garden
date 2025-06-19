@@ -1,5 +1,5 @@
 ---
-{"notes":["3483373","2829521"],"tags":["SAP/Hana/Analytics/Platform"],"dg-publish":true,"permalink":"/sap-business-one/notes/2502251-excel-report-and-interactive-analysis-connection-error/","dgPassFrontmatter":true,"noteIcon":""}
+{"notes":["3483373","2829521"],"tags":["SAP/Hana/Analytics/Platform"],"dg-publish":true,"title":"Excel Report and Interactive Analysis connection error","dg-permalink":"2502251","permalink":"/2502251/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 ## Issues
@@ -34,12 +34,13 @@ The issue occurs due to a bug in the HANA client when attempting to connect to t
 [2829521](https://me.sap.com/notes/2829521) - You Cannot Create New Pivot Tables in the Excel Report and Interactive Analysis Designer
 <div class="page-break" style="page-break-before: always;"></div>
 
+::: hidden
 ## Historic
 ---
 - **`24/02/2025 - 00:00`** - #BP/FRF Opened a ticket with SAP under number[223999](https://userapps.support.sap.com/sap/bc/ui5_ui5/svt/sboi02/index.html?sbodsab=L000M000022399920250020751294%7C002).
 - **`24/02/2025 - 00:00`** - #BP/VTC Implemented this solution.
 - **`18/06/2025 - 16:20`** - #BP/FRF Executed the instructions on Presentation Server.
-
+:::
 ## Footnotes
 [¹] - Correction of system behaviour is not feasible in the currently supported versions of SAP Business One. The error has been recorded and is a candidate to be fixed in a future version.
 [²] - The link to download the Hana client is available in sap notes [2829521](https://me.sap.com/notes/2829521). 
